@@ -2,7 +2,7 @@
 ## Insérer une image
 Insérer une image ici: 
 
-!.[image01](images/holoyoga.png)
+![image01](images/holoyoga.png)
 
 Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
 
