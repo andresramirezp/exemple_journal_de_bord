@@ -2,7 +2,7 @@
 ## Insérer une image
 Insérer une image ici: 
 Image
-![Nomvoulu](Images/Image1.jpg)
+![Nomvoulu](Images/image1.jpg)
 
 Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
 
