@@ -4,7 +4,7 @@ Insérer une image ici:
 
 ![image01](images/holoyoga.png)
 
-Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
+Yoga: *the **only** morning routine for me*
 
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
