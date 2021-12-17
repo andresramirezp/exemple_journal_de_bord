@@ -7,3 +7,4 @@ Quels sont les styles qui vous correspondent? Préférez-vous l'image fixe ou l'
 
 ## Lien vers la curation
 Insérer un lien de partage de votre Curation. 
+{tony}(https://youtu.be/dS1IOkKCs6k)
