@@ -10,5 +10,7 @@ Le secteur communautaire qui génère un impact social est l'un des secteurs dan
 ## Les styles qui m'intéressent
 Quels sont les styles qui vous correspondent? Préférez-vous l'image fixe ou l'image en mouvement? Le matriciel ou le vectoriel?
 
+J'aime travailler à la fois sur des projets d'images fixes et d'images animées, à cette époque mon expérience est plus grande dans le domaine de l'image fixe car j'ai travaillé principalement dans l'impression de produits marketing, c'est pourquoi je voudrais mettre davantage l'accent sur production audiovisuelle et images animées et amélioration de mes compétences en création d'images vectorielles.
+
 ## Lien vers la curation
 Insérer un lien de partage de votre Curation. 
