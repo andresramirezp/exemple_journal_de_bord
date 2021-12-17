@@ -18,7 +18,7 @@ Influential content:
 
 ![image01](images/joel.jpg)
 
-https://youtu.be/tq_KOmXyVDo
+Joel Haver https://youtu.be/tq_KOmXyVDo
 
 ![image01](images/scanner.jpg)
 
