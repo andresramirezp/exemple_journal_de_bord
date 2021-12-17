@@ -28,8 +28,12 @@ Un développeur front end peut travailler dans de très nombreuses entreprises :
 
 
 ### Emploi 4 - Spécialiste QA
+Dans le monde de la conception de logiciels, de jeux vidéo, de plateformes, de sites ou encore d'autres produits et services, le testeur QA, pour Quality Assurance, a pour rôle de tester l’ensemble des fonctionnalités de l’outil et de mettre en place un suivi des itérations/modifications.
+Le testeur QA travaille au sein de l’équipe de développement. Il est amené à collaborer en permanence avec les ingénieurs QA, les développeurs web ou développeurs logiciel / Software engineers, et doit rendre des comptes à son manager qui peut être le Responsable QA, un Lead developer, le CTO, le CIO, ou dans certains cas un Chef de Projet Technique.
+
 
 
 ### Emploi 5 - Gestionnaire de projet
+Le gestionnaire de projets est un catalyseur. Il mène les projets à bon port et coordonne tous les acteurs concernés par le projet, que ce soit par sa réalisation ou ses livrables. Il gère les impacts du projet, à la fois pendant sa réalisation et après sa finalisation. 
 
 
