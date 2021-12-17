@@ -1,9 +1,9 @@
 # Cours 3
 ## Est-ce qu'un secteur économique ou un type de produit m'attire en particulier? 
-Réfléchir aux différents secteurs économiques dans lesquels vous pouvez oeuvrer en tant que designer graphique ou animateur. Qu'est-ce qui vous intéresse? Est-ce qu'il y a des produits en particulier sur lesquels vous aimeriez travailler. Des sujets ou des valeurs que vous aimeriez voir se manifester dans votre travail? 
+Ideally I would like to be an artistic director and find uncommon solutions to create an original aesthetic and stand out from the competition 
 
 ## Les styles qui m'intéressent
-Quels sont les styles qui vous correspondent? Préférez-vous l'image fixe ou l'image en mouvement? Le matriciel ou le vectoriel?
+I love the benefits of technology to automate workloads, but aesthetically keeping things classic and organic.  For example, I used effects in my digital sketches to give an aesthetic of drawing in physical mediums.  Also, I have developed my own effects in After Effects to automate these textures with video as a source and adding final touches of rotoscope for the main lines (seen in the youtube link)
 
 ## Lien vers la curation
 Insérer un lien de partage de votre Curation. 
