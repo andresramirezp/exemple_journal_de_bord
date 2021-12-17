@@ -24,3 +24,6 @@ Joel Haver https://youtu.be/tq_KOmXyVDo
 
 scanner Darkly (movie)
 
+![image01](images/garfield.gif)
+
+Garfield (circa 1987)
