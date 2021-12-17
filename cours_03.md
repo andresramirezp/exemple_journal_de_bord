@@ -14,5 +14,5 @@ J'aime travailler à la fois sur des projets d'images fixes et d'images animées
 
 ## Lien vers la curation
 Insérer un lien de partage de votre Curation. 
-
+[« La culture égalitaire femmes / hommes dans un contexte québécois. »](https://fccestrie.ca/cultureegalitaire/)
 ![Curation](Images/curation.jpg)
