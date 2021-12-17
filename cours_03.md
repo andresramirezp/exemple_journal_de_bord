@@ -14,9 +14,13 @@ Insérer un lien de partage de votre Curation.
 
 (https://youtu.be/dS1IOkKCs6k)
 
-Influential content creators:
+Influential content:
+
 ![image01](images/joel.jpg)
+
 https://youtu.be/tq_KOmXyVDo
-![image01](images/tony.jpg)
+
+![image01](images/scanner.jpg)
+
 scanner Darkly (movie)
 
