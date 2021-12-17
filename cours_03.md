@@ -8,7 +8,8 @@ Quels sont les styles qui vous correspondent? Préférez-vous l'image fixe ou l'
 ## Lien vers la curation
 Insérer un lien de partage de votre Curation. 
 
-
+![image01](images/columbo.jpg)
+![image01](images/andrew.jpg)
 ![image01](images/tony.jpg)
 
 (https://youtu.be/dS1IOkKCs6k)
