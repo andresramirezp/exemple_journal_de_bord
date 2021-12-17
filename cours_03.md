@@ -6,7 +6,7 @@ Ideally I would like to be an artistic director and find uncommon solutions to c
 I love the benefits of technology to automate workloads, but aesthetically keeping things classic and organic.  For example, I used effects in my digital sketches to give an aesthetic of drawing in physical mediums.  Also, I have developed my own effects in After Effects to automate these textures with video as a source and adding final touches of rotoscope for the main lines (seen in the youtube link)
 
 ## Lien vers la curation
-Insérer un lien de partage de votre Curation. 
+The first three examples are my own, followed by examples that influence me. 
 
 ![image01](images/columbo.jpg)
 ![image01](images/andrew.jpg)
