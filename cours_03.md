@@ -15,5 +15,6 @@ Insérer un lien de partage de votre Curation.
 (https://youtu.be/dS1IOkKCs6k)
 
 Influential content creators:
-https://youtu.be/tq_KOmXyVDo
 ![image01](images/joel.jpg)
+https://youtu.be/tq_KOmXyVDo
+
