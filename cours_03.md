@@ -13,7 +13,7 @@ The first four examples are my own, followed by examples that influence me.
 ![image01](images/Bohol.jpg)
 ![image01](images/tony.jpg)
 
-(https://youtu.be/dS1IOkKCs6k)
+Example of Cross hatch effect in After Effects combined with Rotoscoped lines (https://youtu.be/dS1IOkKCs6k)
 
 Influential content:
 
