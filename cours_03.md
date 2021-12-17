@@ -10,7 +10,7 @@ The first four examples are my own, followed by examples that influence me.
 
 ![image01](images/columbo.jpg)
 ![image01](images/andrew.jpg)
-![image01](images/bohol.jpg)
+![image01](images/Bohol.jpg)
 ![image01](images/tony.jpg)
 
 (https://youtu.be/dS1IOkKCs6k)
