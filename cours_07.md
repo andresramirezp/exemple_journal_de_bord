@@ -8,3 +8,6 @@ Comment peut-on évaluer si notre projet photoshop, illustrator, vidéo ou sonor
 2. Avoir une fluidité visuelle qui permet au spectateur de voir plus facilement les éléments clés de la conception.
 3. Choisissez bien les polices pour qu'elles soient bien ensemble.
 4. Rendre le texte lisible.
+5. Qu'il y ait un équilibre entre la forme et le fond.
+6. Faire bon usage de l'espace disponible.
+7. Que la palette de couleurs est harmonieuse.
