@@ -9,7 +9,7 @@
 
 ### L'analyse
 
-Ce projet est une courte démo montrant ce qui peut être fait en post-traitement en utilisant de simples lignes tracées comme source. En utilisant Toonboom, il crée automatiquement des ombres, des reflets, des effets lumineux et des reflets. Cependant, il est grossier et manque d'éléments de netteté, ce qui lui donne une esthétique trop floue. 
+Ce projet est un motion design ou appelé design animé consiste en l’animation sur fond musical d’éléments graphiques tels que des pictogrammes, des images, de la 3D, des vidéos ou encore de la typographie. En bref, le motion design est un art nouveau, celui de mettre en mouvement une conception graphique.
 
 Premièrement, réfléchir aux aspects suivants: 
 * Quelles sont les forces de ce projet? 
