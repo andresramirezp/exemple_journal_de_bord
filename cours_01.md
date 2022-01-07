@@ -1,26 +1,29 @@
 # Cours 1
 ## Insérer une image
 Insérer une image ici: 
-![doppler](Images/Lightshadows.jpg)
-_Une diffraction_
-**Lumineuse**
 
-![image01](images/holoyoga.png)
+Image
+![Nomvoulu](Images/image1.jpg)
 
 
-Yoga: *the **only** morning routine for me*
-
+C'est un __ananas__ qui profite de *l'été.*
 
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 
 ### Lien 1 
 
-**Trouver un emploi au**
-[Studios Mels](https://www.mels-studios.com/fr/)
+
+### Lien 2 
+[Toonboom](https://store.toonboom.com/students)
 
 
-[Québec EPIX](https://www.quebecinternational.ca/fr/quebec-epix)
+### Lien 3 
+[Stash](https://www.stashmedia.tv/)
+
+
+### Lien 4 
+[Parkour3](https://www.parkour3.com/fr/)
 
 
 ### Lien 2 
@@ -31,5 +34,5 @@ Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 ### Lien 4 
 [DeviantArt](https://www.deviantart.com/)
 ### Lien 5 
-[DesignCrowd](https://www.designcrowd.com/)
 
+[traccossolutions](https://www.traccossolutions.ca/)
