@@ -2,5 +2,4 @@
 ## Carte heuristique
 
 
-![Carte JD](JD_mindmap-santé_publique.jpg)
-
+![image01](images/Hurojpg.jpg)

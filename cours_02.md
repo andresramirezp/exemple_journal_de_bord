@@ -4,20 +4,19 @@ Rechercher des informations sur les emplois suivants. Écrire 4 à 5 lignes. Par
 
 ### Emploi 1 - Designer UX
 
-Personne qui analyse, conçoit et évalue, en tenant compte des critères ergonomiques, un système d'accès à tous les éléments contenus dans un produit multimédia, un système informatique, un logiciel, une application ou un site Internet en vue de créer une interface graphique conviviale et cohérente.
+The UX Designer is responsible for designing the User interface in the way the user interacts with the platform, the layout of actions and the way they appear and function.
+Trends in the industry help mold the users expectation incrementally.  We log onto paramount plus and can navigate conent easier thanks to our prior experience with disney plus and netflix.  We also have a harder time cancelling the service as the UX designer obsfucates the options by nesting it behind many layers of interaction.
 
 ### Emploi 2 - Directeur artistique
-Personne qui planifie et dirige la partie artistique des productions dans les domaines du cinéma, du théâtre, de la musique, de la radio, de la télévision, du multimédia et de la publicité en vue d'assurer le caractère artistique et réaliste de la période ou des lieux à représenter.
+The artistic director is charged with the responsibility of ensuring the aesthetic vision of the production are realized and remain consistent.  Often times they are also involved in the hiring process as they are best suited to evaluate the abilities of the candidate and their capacity to respect said aesthetic.  
 
 ### Emploi 3 - Développement Front-End
-Personne qui développe le code qui compose le visuel des pages Web. Ce que l'on voit sur notre navigateur, c'est le "front end", ou Web frontal.
+Front-End developers are responsible rendering the sites vision and design and making it functional with a focus on implementing technologies that are accessible to the user. 
 
 ### Emploi 4 - Spécialiste QA
-Le professionnel QA (assurance qualité) élabore des plans de tests, de préférence automatisés, en mode agile et en intégration continue, pour assurer la qualité et le bon fonctionnement (détection des bogues et d'anomalies) de logiciels, de sites de commerce électronique, etc.
+The QAS ensures all components of a site are working and are not subject to breaks in functionality by factors not seen in the production team, such as a users platform, language etc
 
 ### Emploi 5 - Gestionnaire de projet
-Personne qui planifie et coordonne le travail des équipes multidisciplinaires affectées au développement de projets multimédias (sites Internet, applications, jeux électroniques, etc.) en vue d'offrir des produits ou des services de qualité tout en respectant les délais et les ressources financières prévus pour leur réalisation.
+A project manager oversees the production from initial concept to completion, ensuring all design goals, timetables and budgets are clearly outline and respected
 
-### Emploi 6 - DevOps (développement et opération)
-Hébergement, déploiement, sécurisation de sites. Travail fait à la fin du processus, juste avant le lancement d'un site.
 

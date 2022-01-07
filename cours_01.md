@@ -5,6 +5,10 @@ Insérer une image ici:
 _Une diffraction_
 **Lumineuse**
 
+![image01](images/holoyoga.png)
+
+
+Yoga: *the **only** morning routine for me*
 
 
 ## Liens vers des nouvelles de l'industrie
