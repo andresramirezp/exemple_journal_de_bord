@@ -4,6 +4,8 @@
 
 ### Le projet créatif
 [![watch](http://img.youtube.com/vi/VTgADEXQAGs/0.jpg)](https://youtu.be/VTgADEXQAGs)
+
+[![film_d'animation_entreprise](http://img.youtube.com/vi/VTgADEXQAGs/0.jpg)](https://www.youtube.com/watch?v=cZ6_KIOxugo)
     
     
 
