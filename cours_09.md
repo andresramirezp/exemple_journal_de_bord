@@ -13,6 +13,9 @@ Ce projet est une courte démo montrant ce qui peut être fait en post-traitemen
 
 Premièrement, réfléchir aux aspects suivants: 
 * Quelles sont les forces de ce projet? 
+Une vidéo très divertissante qui permet de captiver l’attention du spectateur.
+Bonne combinaison de couleurs et de typographie.
+
 * Quelles sont les faiblesses? 
 * Quel est le processus de création de ce projet? 
 * Qui participe à la création de ce projet? 
